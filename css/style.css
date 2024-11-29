@@ -1,6 +1,6 @@
-body{
-    font-family: 'Roboto', sans-serif;
-    color: #2E2F42;
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
     background-color: #ffffff;
 }
 
@@ -13,10 +13,10 @@ li {
 }
 
 .logo {
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 117%;
+    line-height: 1.17;
     letter-spacing: 0.03em; 
     color: #4D5AE5;
     text-transform: uppercase;
@@ -29,9 +29,9 @@ li {
 .menu-list-points {
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
-    color: inherit;
+    color: #2e2f42;
 }
 
 .menu-list-points:hover, .menu-list-points:focus {
@@ -41,39 +41,40 @@ li {
 .contacts {
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
+    font-style: normal;
     color: #434455;
 }
 
 .hero-image {
     font-weight: 700;
     font-size: 56px;
-    line-height: 107%;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     background-color: #2E2F42;
     color: #ffffff;
 }
 
-.order {
+.order-service {
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
     color: #ffffff;
     cursor: pointer;
 }
 
-.order:hover, .order:focus {
+.order-service:hover, .order-service:focus {
     background-color: #404BBF;
 }
 
 .section-name {
     font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -81,14 +82,14 @@ li {
 .advantages-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
 .advantages-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -99,7 +100,7 @@ li {
 .person-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -107,7 +108,7 @@ li {
 .position {
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
@@ -116,14 +117,14 @@ li {
 .portfolio-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
 .portfolio-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
