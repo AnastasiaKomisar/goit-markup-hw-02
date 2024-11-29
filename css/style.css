@@ -48,16 +48,20 @@ li {
 }
 
 .hero-image {
+    background-color: #2E2F42;
+}
+
+.main-heading {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    background-color: #2E2F42;
     color: #ffffff;
 }
 
 .order-service {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -131,9 +135,14 @@ li {
 
 footer {
     background-color: #2E2F42;
-    color: #F4F4FD;
 }
 
 .white-logo {
     color: #F4F4FD;
+}
+
+.footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
